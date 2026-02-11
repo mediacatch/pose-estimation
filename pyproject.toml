@@ -14,7 +14,7 @@ dependencies = [
     "opencv-python-headless~=4.10.0.84",
     "torch~=2.5.1",
     "tqdm~=4.67.0",
-    "ultralytics~=8.3.23",
+    "ultralytics~=8.4.14",
 ]
 scripts = { pose = "pose.infer:main" }
 
